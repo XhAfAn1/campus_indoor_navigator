@@ -44,3 +44,10 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /lib/backend/
+android/app/google-services.json
+firebase.json
+lib/firebase_options.dart
+android/app/src/main/AndroidManifest.xml
+android/app/src/main/AndroidManifest.xml
+ios/Runner/AppDelegate.swift
+web/index.html
