@@ -46,8 +46,10 @@ app.*.map.json
 /lib/backend/
 android/app/google-services.json
 firebase.json
-lib/firebase_options.dart
+lib/backend/firebase_options.dart
 android/app/src/main/AndroidManifest.xml
 android/app/src/main/AndroidManifest.xml
 ios/Runner/AppDelegate.swift
 web/index.html
+ios/GoogleService-Info.plist
+lib/API KEY.dart
