@@ -53,3 +53,9 @@ ios/Runner/AppDelegate.swift
 web/index.html
 ios/GoogleService-Info.plist
 lib/API KEY.dart
+android/app/src/main/res/values/strings.xml
+ios/Podfile.lock
+ios/Runner/Info.plist
+ios/Runner/Info.plist
+pubspec.lock
+ios/Runner.xcodeproj/project.pbxproj

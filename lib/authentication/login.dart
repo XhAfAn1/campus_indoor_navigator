@@ -152,25 +152,25 @@ class _loginState extends State<login> {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   SizedBox(height: 40),
-                  // Logo container
-                  // Container(
-                  //   height: 120,
-                  //   width: 120,
-                  //   decoration: BoxDecoration(
-                  //     image: DecorationImage(
-                  //       image: AssetImage('assets/rlogo.png'),
-                  //       fit: BoxFit.cover,
-                  //     ),
-                  //     borderRadius: BorderRadius.circular(20),
-                  //     boxShadow: [
-                  //       BoxShadow(
-                  //         color: Colors.black.withOpacity(0.1),
-                  //         blurRadius: 10,
-                  //         offset: Offset(0, 4),
-                  //       ),
-                  //     ],
-                  //   ),
-                  // ),
+                 // // Logo container
+                 //  Container(
+                 //    height: 120,
+                 //    width: 120,
+                 //    decoration: BoxDecoration(
+                 //      image: DecorationImage(
+                 //        image: AssetImage('assets/floorplan.jpg'),
+                 //        fit: BoxFit.cover,
+                 //      ),
+                 //      borderRadius: BorderRadius.circular(20),
+                 //      boxShadow: [
+                 //        BoxShadow(
+                 //          color: Colors.black.withOpacity(0.1),
+                 //          blurRadius: 10,
+                 //          offset: Offset(0, 4),
+                 //        ),
+                 //      ],
+                 //    ),
+                 //  ),
                   SizedBox(height: 40),
                   // Welcome text
                   Text(
